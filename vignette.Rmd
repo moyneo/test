@@ -1,0 +1,10 @@
+---
+title: "Test"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+On souhaite detailler le fonctionnement de notre code ici.
